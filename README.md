@@ -1,2 +1,1 @@
-jarallaxTest
-============
+This is a simple test page showing jarallax effect.
