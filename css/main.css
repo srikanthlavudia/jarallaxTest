@@ -1,0 +1,38 @@
+body {
+	margin:0;
+	padding:0;
+	//color:black;
+	height:1000px
+}
+
+.big_moon {
+	height:250px;
+	width:250px;
+	top:30%;
+	border-radius:200px;
+	background-color:green;
+	margin-left:270px;
+	margin-top:90px;
+	z-index:-1;
+	position:fixed;
+}
+.small_moon {
+	top:30%;
+	height:150px;
+	width:150px;
+	border-radius:100px;
+	background-color:yellow;
+	margin-left:250px;
+	margin-top:100px;
+	position:fixed;
+	z-index:-2;
+}
+.para1 {
+	top:30%;
+	width:100px;
+	height:200px;
+	margin-left:100px;
+	margin-top:100px;
+	z-index:-3;
+	position:fixed;
+}
